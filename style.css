@@ -1,0 +1,5 @@
+table, tr, td{
+    border: 2px solid skyblue;
+    border-collapse: collapse;
+    padding: 8px;
+}
